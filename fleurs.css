@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: antiquewhite;
 }
 
 h1
@@ -13,6 +14,9 @@ h2{
 p{
     color: aqua;
 }
-
+ .article_fleur{
+    display: flex;
+    align-content: center;
+ }
 
 
