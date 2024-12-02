@@ -17,6 +17,8 @@ p{
  .article_fleur{
     display: flex;
     align-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
  }
 
 
