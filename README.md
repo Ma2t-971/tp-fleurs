@@ -1,4 +1,11 @@
 # tp-fleurs
+
+##Excercie sur le tp-fleurs
+#Site statique sur les fleurs
+git Une fichier fleurs.css
+j ai stylisé un h1 h2 et les paragraphe avec des couleurs divers.
+
+=======
 Excercie sur le tp-fleurs
 
 # Recherche img 
@@ -18,4 +25,5 @@ J'ai crée un menu navigion avec une liste intégrée en ligne comme le dernier 
 j'ai fait un main avec une div class "article_fleur intégrant une image avec un article comportat un h2 et un paragraphe
 l'idée serait de mettre m'image et l'article sur la même ligne 
 avec une typo sans serif
+
 
